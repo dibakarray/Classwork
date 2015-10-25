@@ -6,8 +6,6 @@ Download the zip file from this URL.
 Unzip the file into a directory. Set the Directory as Working Directory using setwd command. Unzip creates a data directory named **'UCI HAR Dataset'**
 Do not change name of the data directory.
 
-Here are the steps that must be performed before running the R script:
-
 Once those steps are complete, you can run the R script (run_analysis.R). Note that it requires the reshape2 package, which can be downloaded from CRAN using the command 
 install.packages("reshape") and library("reshape")
 
