@@ -53,8 +53,6 @@ features[,2] = gsub('[-()]', '', features[,2])
 ## set the column headers for combined data with Subject, activity_id, activity
 colnames(Data) <- c("Subject","Activity_Id","Activity",as.vector(features[,2]))
 
-
-# Get only the data on mean and std. dev.
 ## subset only those rows where the name contains the word mean and std
 
 colsWeWant <- grep(".*Mean.*|.*Std.*", colnames(Data))
