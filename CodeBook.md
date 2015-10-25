@@ -85,6 +85,7 @@ Note: features are normalized and bounded within [-1,1].
 The resulting variable names are of the following form: tbodyaccmeanx, which means the mean value of tBodyAcc-XYZ.
 
 *Activities*
+
 Following 6 Activites are available in the data set. 
 
 1 WALKING
