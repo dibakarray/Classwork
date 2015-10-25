@@ -1,12 +1,12 @@
 #Code Book
 
-###This code book will describe the data used in this project, as well as the processing required to create the resulting tidy data set.
+###This code book will describe the data used in this project.
 
 **Overview**
 
 30 volunteers performed 6 different activities while wearing a smartphone. The smartphone captured various data about their movements. A full description is available at the site , which can be accessed here -
-avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphoned
-Data can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+avaiable [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphoned)
+Data can be downloaded from [this link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
  
 
 **Explanation of each file**
